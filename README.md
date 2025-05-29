@@ -1,6 +1,6 @@
 # Ex No: 03 - Implementation & Analysis of D Flip-Flop using Cadence EDA Tools
-## REG NO 212222060055
-## NAME : ESAKI MUTHU E
+## REG NO 212222060021
+## NAME : Ashwanth Jonathan
 ## Aim
 The aim is to design, implement, and analyze a D flip-flop using Cadence EDA tools, ensuring accurate sequential logic operation through waveform analysis and performance verification.
 
